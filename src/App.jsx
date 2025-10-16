@@ -100,7 +100,7 @@ function App() {
                     display: "flex",
                     justifyContent: "space-between",
                     alignItems: "center",
-                    flexWrap: "nowrap", // ✅ забороняє перенос елементів
+                    flexWrap: "nowrap",
                     overflow: "hidden",
                 }}
             >
